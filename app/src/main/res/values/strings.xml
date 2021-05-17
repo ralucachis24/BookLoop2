@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookLoop2</string>
+    <string name="string_add_book">Add book</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="author">Author</string>
+    <string name="desc">imgdesc</string>
+</resources>
